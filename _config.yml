@@ -1,0 +1,28 @@
+name: TestIBC
+favicon: null
+layout_spectrum: 0.35617553861811757
+typography_spectrum: 0.314806274138391
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5142066753469408
+  lightness: 0.17278392263688147
+  saturation: 0.26585603505373
+  rhythmicContrast: 0.9961568729486316
+purpose: []
